@@ -1,4 +1,4 @@
-# Module 11-Lab 1: Migrate to SharePoint in Microsoft 365
+# Module 08: Migrate to SharePoint in Microsoft 365
 
 ## Microsoft 365 user interface 
 
