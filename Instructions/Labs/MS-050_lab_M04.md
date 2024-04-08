@@ -1,4 +1,4 @@
-# Module 04- Lab1: Create and Configure Service Applications
+# Module 04: Create and Configure Service Applications
 
 ## Microsoft 365 user interface 
 
