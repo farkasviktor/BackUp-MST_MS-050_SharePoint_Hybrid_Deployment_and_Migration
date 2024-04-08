@@ -1,4 +1,4 @@
-# Module 01-Lab 1: Configure and update SharePoint Farm
+# Module 01: Configure and update SharePoint Farm
 
 ## Microsoft 365 user interface 
 
