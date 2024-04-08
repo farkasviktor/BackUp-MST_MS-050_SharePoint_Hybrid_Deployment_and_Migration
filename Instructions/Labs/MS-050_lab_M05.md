@@ -1,4 +1,4 @@
-# Module 04- Lab2: Create and Configure User Profile Service
+# Module 05: Create and Configure User Profile Service
 
 ## Microsoft 365 user interface 
 
