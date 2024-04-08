@@ -1,4 +1,4 @@
-# Module 09-Lab 1: Configuring SharePoint Hybrid'
+# Module 07: Configuring SharePoint Hybrid'
 
 ## Microsoft 365 user interface 
 
