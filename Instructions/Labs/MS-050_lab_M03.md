@@ -1,4 +1,4 @@
-# Module 03- Lab2: Manage Site Collections and Permissions 
+# Module 03: Manage Site Collections and Permissions 
 
 ## Microsoft 365 user interface 
 
