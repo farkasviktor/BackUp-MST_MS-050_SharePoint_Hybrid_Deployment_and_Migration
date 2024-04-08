@@ -1,4 +1,4 @@
-# Module 06-Lab 1: Create and Configure Search Service
+# Module 06: Create and Configure Search Service
 
 ## Microsoft 365 user interface 
 
