@@ -1,4 +1,4 @@
-# Module 03-Lab 1: Create and Configure web applications 
+# Module 02: Create and Configure web applications 
 
 ## Microsoft 365 user interface 
 
